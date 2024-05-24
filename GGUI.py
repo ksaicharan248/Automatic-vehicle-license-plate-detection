@@ -6,7 +6,6 @@ import main
 
 
 
-# Your detection code here
 
 def detect_license_plate() :
     file_path = filedialog.askopenfilename()
